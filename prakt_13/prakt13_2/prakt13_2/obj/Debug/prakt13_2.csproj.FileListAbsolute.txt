@@ -1,0 +1,10 @@
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_13\prakt13_2\prakt13_2\bin\Debug\prakt13_2.exe.config
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_13\prakt13_2\prakt13_2\bin\Debug\prakt13_2.exe
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_13\prakt13_2\prakt13_2\bin\Debug\prakt13_2.pdb
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_13\prakt13_2\prakt13_2\obj\Debug\prakt13_2.csproj.AssemblyReference.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_13\prakt13_2\prakt13_2\obj\Debug\prakt13_2.Form1.resources
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_13\prakt13_2\prakt13_2\obj\Debug\prakt13_2.Properties.Resources.resources
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_13\prakt13_2\prakt13_2\obj\Debug\prakt13_2.csproj.GenerateResource.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_13\prakt13_2\prakt13_2\obj\Debug\prakt13_2.csproj.CoreCompileInputs.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_13\prakt13_2\prakt13_2\obj\Debug\prakt13_2.exe
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_13\prakt13_2\prakt13_2\obj\Debug\prakt13_2.pdb

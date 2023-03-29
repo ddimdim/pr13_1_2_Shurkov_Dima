@@ -1,0 +1,7 @@
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_13\pralt13_1\pralt13_1\bin\Debug\pralt13_1.exe.config
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_13\pralt13_1\pralt13_1\bin\Debug\pralt13_1.exe
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_13\pralt13_1\pralt13_1\bin\Debug\pralt13_1.pdb
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_13\pralt13_1\pralt13_1\obj\Debug\pralt13_1.csproj.AssemblyReference.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_13\pralt13_1\pralt13_1\obj\Debug\pralt13_1.csproj.CoreCompileInputs.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_13\pralt13_1\pralt13_1\obj\Debug\pralt13_1.exe
+C:\Users\305-7\Desktop\Шурков ПР-21\prakt_13\pralt13_1\pralt13_1\obj\Debug\pralt13_1.pdb
